@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tanishka-k-501376329/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="tanishkakathervel496@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -20,9 +19,8 @@ I'm a third-year Computer Science Engineering student at **Madras Institute of T
 
 - 🎓 B.E. CSE, MIT Anna University, Chennai — CGPA 9.62
 - 💻 Full-stack development in **MERN**, DSA and coursework in **Java**
-- 🌐 Every major personal project below is live and deployed — not just pushed to `main`
 - 🧠 Currently deep in Operating Systems internals — reworking memory management in xv6
-- 🇮🇳 Also write **Tamil poetry** and volunteer teaching computer literacy to government school students
+-  Also write **Tamil poetry** and volunteer teaching computer literacy to government school students
 
 ---
 
@@ -67,15 +65,6 @@ An idea for a personalized engine that pulls internships, hackathons, scholarshi
 - 🤝 Associate Joint Treasurer, **NSS** (National Service Scheme)
 - 👩‍🏫 Volunteer coordinator, **RSMF Fellowship** — teaching computer literacy to government school students
 - 📚 Member, **Book Reader's Club**
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishka496&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishka496&hide_border=true" width="48%" />
-</p>
 
 ---
 
