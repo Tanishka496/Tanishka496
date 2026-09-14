@@ -19,7 +19,7 @@
 <tr>
 <td align="center" width="25%">
 
-**9.62**
+**9.52**
 <br/><sub>CGPA</sub>
 
 </td>
@@ -52,10 +52,10 @@ I'm a CSE student who likes building full-stack products **and** understanding w
 
 **Currently exploring:**
 
-- ◉ MERN & backend systems
-- ◉ Computer networks · SDN · QoS
-- ◉ Operating systems & xv6 internals
-- ◉ DSA & problem solving in Java
+ ◉ MERN & backend systems
+ ◉ Computer networks · SDN · QoS
+ ◉ Operating systems & xv6 internals
+ ◉ DSA & problem solving in Java
 
 <br/>
 
