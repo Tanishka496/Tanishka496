@@ -215,18 +215,6 @@ Volunteering with RSMF Fellowship · writing Tamil poetry
 
 <br/>
 
-## 💬 Let's Connect
-
-<table align="center">
-<tr>
-<td align="center" width="33%"><a href="#">📧<br/><b>Email</b></a></td>
-<td align="center" width="33%"><a href="#">💼<br/><b>LinkedIn</b></a></td>
-<td align="center" width="33%"><a href="#">🌐<br/><b>Portfolio</b></a></td>
-</tr>
-</table>
-
-<br/>
-
 <div align="center">
 
 <sub><i>"Code. Build. Learn. Write. Repeat."</i></sub>
