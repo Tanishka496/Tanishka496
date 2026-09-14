@@ -19,7 +19,7 @@
 <tr>
 <td align="center" width="25%">
 
-**9.62**
+**9.52**
 <br/><sub>CGPA</sub>
 
 </td>
@@ -180,28 +180,55 @@ Frontend built as a full-SDLC exercise — requirement analysis and COCOMO estim
 
 <br/>
 
-## 📊 GitHub Stats
+## 📌 Snapshot
 
-<!--
-  ⚠️ SELF-HOSTED WIDGETS — replace the domain below after deploying your own instance:
-  1. Fork https://github.com/anuraghazra/github-readme-stats
-  2. Deploy the fork on vercel.com (free, ~1 min)
-  3. Swap "github-readme-stats-tanishka496.vercel.app" for YOUR actual Vercel domain
-  This keeps the stats card from breaking due to the shared public demo's rate limits/downtime.
--->
-<p align="center">
-  <img src="https://github-readme-stats-tanishka496.vercel.app/api?username=Tanishka496&show_icons=true&hide_border=true&title_color=8C7EFF&icon_color=8C7EFF&text_color=333333" width="48%" />
-  <img src="https://github-readme-stats-tanishka496.vercel.app/api/top-langs/?username=Tanishka496&layout=compact&hide_border=true&title_color=8C7EFF&text_color=333333" width="48%" />
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Currently building**
+Reworking memory management in xv6 — demand paging, COW fork, page replacement
+
+</td>
+<td width="50%" valign="top">
+
+**Currently learning**
+Computer Networks · Operating Systems · Cloud Deployment
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Collaborating on**
+SDN/QoS traffic prioritization with a 4-person team
+
+</td>
+<td width="50%" valign="top">
+
+**Also up to**
+Volunteering with RSMF Fellowship · writing Tamil poetry
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 💬 Let's Connect
+
+<table align="center">
+<tr>
+<td align="center" width="33%"><a href="#">📧<br/><b>Email</b></a></td>
+<td align="center" width="33%"><a href="#">💼<br/><b>LinkedIn</b></a></td>
+<td align="center" width="33%"><a href="#">🌐<br/><b>Portfolio</b></a></td>
+</tr>
+</table>
 
 <br/>
 
 <div align="center">
 
 <sub><i>"Code. Build. Learn. Write. Repeat."</i></sub>
-
-<br/><br/>
-
-Open to collaborating on full-stack projects, systems-level work, or anything that mixes engineering with a bit of storytelling.
 
 </div>
