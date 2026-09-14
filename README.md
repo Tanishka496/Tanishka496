@@ -1,186 +1,200 @@
-# Hi, I'm Tanishka 👋
+<div align="center">
 
-### Building full-stack systems by day, writing Tamil poetry by night. ✍️
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8C7EFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Tanishka+%F0%9F%91%8B;Building+systems.+Solving+problems.;Writing+stories+on+the+side.+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Third-year+CSE+%40+MIT%2C+Anna+University;Full-Stack+Developer;Exploring+Systems+%26+Computer+Networks;Turning+Coursework+into+Working+Software" alt="Typing SVG" />
-</p>
+<sub>Full-Stack Developer&nbsp;·&nbsp;Systems &amp; Networking Enthusiast&nbsp;·&nbsp;Tamil Poet</sub>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanishka-k-501376329/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tanishkakathervel496@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
 
----
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-8C7EFF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="#projects">
+<img src="https://img.shields.io/badge/Projects-4B4E9E?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-## 👩‍💻 About Me
+</div>
 
-I'm a **third-year Computer Science Engineering student at Madras Institute of Technology, Anna University**, interested in building software that goes beyond *"it works on my machine."*
+<br/>
 
-I enjoy taking projects from **implementation → deployment → documentation**, while gradually going deeper into systems and networking.
+<table align="center" width="100%">
+<tr>
+<td align="center" width="25%">
 
-- 🎓 B.E. Computer Science Engineering — **MIT, Anna University** · 2024–2028
-- 📊 CGPA: **9.52**
-- 💻 Full-stack development with **MERN**, Python/Flask and Java
-- 🌐 Exploring **Computer Networks, SDN & QoS**
-- 🧠 Working with **Operating Systems internals and xv6**
-- 🚀 Interested in building practical, deployed software
-- ✍️ Tamil poetry and creative writing outside engineering
+**9.62**
+<br/><sub>CGPA</sub>
 
----
+</td>
+<td align="center" width="25%">
 
-## 🚀 Featured Projects
+**2024–28**
+<br/><sub>B.E. CSE</sub>
 
-### 🎯 [TaskForge](https://github.com/Tanishka496/issue-tracker)
+</td>
+<td align="center" width="25%">
 
-**MERN · JWT Authentication · MongoDB Aggregation · Recharts**
+**MIT, Anna University**
+<br/><sub>Chennai</sub>
 
-A Jira/Linear-inspired issue tracker with **drag-and-drop Kanban workflows, role-based access and project analytics**.
+</td>
+<td align="center" width="25%">
 
-- 🔐 JWT-based authentication and authorization
-- 📋 Project and task management with Kanban workflows
-- 📊 Analytics dashboard powered by MongoDB aggregation pipelines
-- ☁️ Deployed using **Vercel, Render and MongoDB Atlas**
+**MERN + Systems**
+<br/><sub>Focus Area</sub>
 
-🔗 **[Live Demo](https://issue-tracker-tawny-nine.vercel.app/)**
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### 🧩 [xv6 Memory Management Overhaul](https://github.com/YazheneS/Xv6-Memory-Management)
+## 🧭 About Me
 
-**C · xv6-riscv · Operating Systems**
+I'm a CSE student who likes building full-stack products **and** understanding what's running underneath them — from a MongoDB aggregation pipeline to a page-fault handler in xv6.
 
-A kernel-level project exploring memory management inside the **xv6-riscv operating system**.
+**Currently exploring:**
 
-- 🧠 Demand paging
-- 🔄 Copy-on-write fork
-- 🕐 Clock-based page replacement
-- 📈 Memory-management instrumentation through a custom `meminfo` syscall
-- 🧪 Benchmarking page faults, evictions and reloads
+- ◉ MERN & backend systems
+- ◉ Computer networks · SDN · QoS
+- ◉ Operating systems & xv6 internals
+- ◉ DSA & problem solving in Java
 
----
+<br/>
+
+## 🚀 Featured Work <a name="projects"></a>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 TaskForge
+**MERN · JWT · MongoDB Aggregation**
+
+Jira-style issue tracker — Kanban board, role-based access, analytics dashboard.
+
+[![Live](https://img.shields.io/badge/Live-8C7EFF?style=flat-square)](https://issue-tracker-tawny-nine.vercel.app/)
+[![Code](https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Tanishka496/issue-tracker)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 xv6 Memory Management
+**C · OS Internals**
+
+Demand paging, copy-on-write fork, clock-based page replacement, custom syscall instrumentation.
+
+[![Code](https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white)](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📡 SDN & QoS Traffic Prioritization
+**Python · Networking**
 
-**Python · Mininet · Open vSwitch · Networking**
+QoS-aware traffic management — measuring latency, jitter, packet loss, and bandwidth for an SDN controller.
 
-A software-defined networking project focused on **QoS-aware traffic prioritization and bandwidth management**.
+[![Code](https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white)](#)
 
-- 🌐 SDN-based traffic management
-- 🚦 Priority-aware traffic handling
-- 📊 Measurement of latency, jitter, packet loss and bandwidth
-- 🧪 Traffic generation and network experimentation using Mininet
-- ⚙️ QoS configuration with Open vSwitch
+</td>
+<td width="50%" valign="top">
 
----
+### 💰 SmartSpend
+**Flask · SQLite · Azure**
 
-### 💰 [SmartSpend](https://github.com/Tanishka496/expense-tracker)
+Expense tracker with budget alerts and category-wise spending analytics, deployed on Azure App Service.
 
-**Python · Flask · SQLite · Azure App Service**
+[![Live](https://img.shields.io/badge/Live-8C7EFF?style=flat-square)](https://smartspend-c6fzeufnhrfxc0ap.southeastasia-01.azurewebsites.net/)
+[![Code](https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Tanishka496/expense-tracker)
 
-A personal expense tracker built to understand the complete journey from a local application to a **cloud-hosted product**.
-
-- 🔐 User authentication
-- 💸 Expense and category management
-- 🎯 Budget tracking and alerts
-- 📊 Spending analytics
-- ☁️ Deployed on **Azure App Service**
-
-🔗 **[Live Demo](https://smartspend-c6fzeufnhrfxc0ap.southeastasia-01.azurewebsites.net/)**
-
----
-
-## 📚 Other Projects
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🚦 Traffic Management System
-**React · Express.js · MySQL**
+**React · Express · MySQL**
 
-A relational traffic-data management system focused on **database schema design, structured querying and backend integration**.
+Team-built traffic data system, built on a relational schema instead of the usual NoSQL default.
+
+[![Code](https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Tanishka496/traffic-management-system)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏠 Tenant Portal
-**HTML · CSS · JavaScript · Jira · COCOMO**
+**HTML/CSS/JS · Jira · COCOMO**
 
-A software engineering project covering the **SDLC**, including requirements analysis, effort estimation using COCOMO and sprint tracking through Jira.
+Frontend built as a full-SDLC exercise — requirement analysis and COCOMO estimation before any UI code.
 
----
+[![Code](https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Tanishka496/tenant-portal)
 
-## 💡 Hackathon & Ideas
+</td>
+</tr>
+</table>
 
-### 🏫 Campus Opportunity & Resource Discovery
-
-**Hackathon Concept · Open Innovation**
-
-A personalized discovery platform designed to bring scattered opportunities such as **internships, hackathons, scholarships and campus events** into a single, profile-matched and deadline-aware feed.
-
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<table width="100%">
+<tr>
+<td align="center" width="25%"><b>Languages</b></td>
+<td align="center" width="25%"><b>Web</b></td>
+<td align="center" width="25%"><b>Databases</b></td>
+<td align="center" width="25%"><b>Systems &amp; Tools</b></td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,html,css" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vercel,azure" />
+</td>
+</tr>
+</table>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<div align="center">
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+**Currently learning:** DSA · Computer Networks · Operating Systems · Cloud Deployment
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+</div>
 
-### Systems & Networking
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Mininet](https://img.shields.io/badge/Mininet-Networking-blue?style=flat-square)
-![Open vSwitch](https://img.shields.io/badge/Open_vSwitch-SDN-orange?style=flat-square)
+<br/>
 
-### Tools & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+## 🌱 Beyond the Code
 
----
+<table width="100%">
+<tr>
+<td align="center" width="25%">🤝<br/><b>NSS</b><br/><sub>Assoc. Joint Treasurer</sub></td>
+<td align="center" width="25%">👩‍🏫<br/><b>RSMF Fellowship</b><br/><sub>Volunteer Coordinator</sub></td>
+<td align="center" width="25%">📚<br/><b>Book Reader's Club</b><br/><sub>Member</sub></td>
+<td align="center" width="25%">✍️<br/><b>Tamil Poetry</b><br/><sub>Writer</sub></td>
+</tr>
+</table>
 
-## 🧠 Currently Learning
+<br/>
 
-- 📌 Data Structures & Algorithms
-- 🌐 Computer Networks & SDN
-- 🧩 Operating Systems Internals
-- ☁️ Cloud & Deployment
-- 🤖 Exploring practical applications of AI/ML
-
----
-
-## 🌱 Beyond Code
-
-- 🤝 **NSS** — Associate Joint Treasurer
-- 👩‍🏫 **RSMF Fellowship** — Volunteer coordinator for computer literacy initiatives
-- 📚 **Book Reader's Club**
-- ✍️ Tamil poetry and creative writing
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to collaborating on **full-stack projects, systems-level work, networking experiments, and ideas that turn into something people can actually use.**
+## 📊 GitHub Stats
 
 <p align="center">
-  <i>Code. Build. Learn. Write. Repeat.</i> ✨
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanishka496&show_icons=true&hide_border=true&title_color=8C7EFF&icon_color=8C7EFF&text_color=333333" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishka496&hide_border=true&background=FFFFFF&stroke=8C7EFF&ring=8C7EFF&fire=8C7EFF&currStreakLabel=8C7EFF" width="48%" />
 </p>
+
+<br/>
+
+<div align="center">
+
+<sub><i>"Code. Build. Learn. Write. Repeat."</i></sub>
+
+<br/><br/>
+
+Open to collaborating on full-stack projects, systems-level work, or anything that mixes engineering with a bit of storytelling.
+
+</div>
