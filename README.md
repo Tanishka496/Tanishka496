@@ -19,7 +19,7 @@
 <tr>
 <td align="center" width="25%">
 
-**9.52**
+**9.62**
 <br/><sub>CGPA</sub>
 
 </td>
@@ -52,10 +52,10 @@ I'm a CSE student who likes building full-stack products **and** understanding w
 
 **Currently exploring:**
 
- ◉ MERN & backend systems
- ◉ Computer networks · SDN · QoS
- ◉ Operating systems & xv6 internals
- ◉ DSA & problem solving in Java
+- ◉ MERN & backend systems
+- ◉ Computer networks · SDN · QoS
+- ◉ Operating systems & xv6 internals
+- ◉ DSA & problem solving in Java
 
 <br/>
 
@@ -182,9 +182,16 @@ Frontend built as a full-SDLC exercise — requirement analysis and COCOMO estim
 
 ## 📊 GitHub Stats
 
+<!--
+  ⚠️ SELF-HOSTED WIDGETS — replace the domain below after deploying your own instance:
+  1. Fork https://github.com/anuraghazra/github-readme-stats
+  2. Deploy the fork on vercel.com (free, ~1 min)
+  3. Swap "github-readme-stats-tanishka496.vercel.app" for YOUR actual Vercel domain
+  This keeps the stats card from breaking due to the shared public demo's rate limits/downtime.
+-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishka496&show_icons=true&hide_border=true&title_color=8C7EFF&icon_color=8C7EFF&text_color=333333" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishka496&hide_border=true&background=FFFFFF&stroke=8C7EFF&ring=8C7EFF&fire=8C7EFF&currStreakLabel=8C7EFF" width="48%" />
+  <img src="https://github-readme-stats-tanishka496.vercel.app/api?username=Tanishka496&show_icons=true&hide_border=true&title_color=8C7EFF&icon_color=8C7EFF&text_color=333333" width="48%" />
+  <img src="https://github-readme-stats-tanishka496.vercel.app/api/top-langs/?username=Tanishka496&layout=compact&hide_border=true&title_color=8C7EFF&text_color=333333" width="48%" />
 </p>
 
 <br/>
